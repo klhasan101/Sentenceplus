@@ -1,0 +1,8 @@
+{
+  "name": "أهم 5000 جملة إنجليزية (English 5000)",
+  "description": "تطبيق ويب تفاعلي وشامل لتعلم أهم 5000 جملة إنجليزية شائعة مع النطق، اختبارات تفاعلية، ومدرب شخصي ذكي بالذكاء الاصطناعي.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
