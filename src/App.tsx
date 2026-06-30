@@ -367,7 +367,7 @@ export default function App() {
           <BookOpen className="w-5 h-5 text-indigo-500" />
         </div>
         
-        <h1 className="text-base font-bold font-display text-slate-800">إنجليزية 5000</h1>
+        <h1 className="text-base font-bold font-display text-slate-800">Sentence Plus</h1>
       </header>
 
       {/* Mobile drawer backdrop */}

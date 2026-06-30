@@ -7,7 +7,6 @@ import {
   Bookmark, 
   Flame, 
   Sparkles,
-  Info,
   Volume2,
   X,
   Smartphone,
@@ -80,8 +79,7 @@ export default function Sidebar({
             <Sparkles className="w-6 h-6 animate-pulse relative z-10" />
           </div>
           <div>
-            <h1 className="text-lg font-extrabold text-slate-800 tracking-wide font-display">إنجليزية 5000</h1>
-            <p className="text-[10px] text-slate-400 font-bold">بمفهوم Google Neural Expressive</p>
+            <h1 className="text-lg font-extrabold text-slate-800 tracking-wide font-display">Sentence Plus</h1>
           </div>
         </div>
       </div>
@@ -157,13 +155,7 @@ export default function Sidebar({
         </select>
       </div>
 
-      {/* Footer info banner */}
-      <div className="p-6 border-t border-slate-100 bg-slate-50/30 text-center">
-        <div className="flex items-center justify-center gap-1.5 text-xs text-slate-400">
-          <Info className="w-3.5 h-3.5 text-indigo-500" />
-          <span>تطبيق ويب يدعم PWA بلا إنترنت</span>
-        </div>
-      </div>
+
 
       {/* Voice Help Modal */}
       {showVoiceInfo && (

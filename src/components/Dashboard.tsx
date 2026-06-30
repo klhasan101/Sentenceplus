@@ -380,10 +380,6 @@ export default function Dashboard({
         <div className="absolute -left-24 -bottom-24 w-64 h-64 rounded-full bg-cyan-400/20 blur-3xl"></div>
         
         <div className="relative z-10 max-w-2xl space-y-4">
-          <span className="inline-flex items-center gap-1.5 px-3 py-1 text-xs font-bold text-white bg-white/20 rounded-full border border-white/30 backdrop-blur-md">
-            <Sparkles className="w-3.5 h-3.5 text-yellow-300 animate-spin" style={{ animationDuration: '4s' }} />
-            جوجل Neural Expressive • تطبيق ويب ذكي فائق السرعة
-          </span>
           <h2 className="text-2xl sm:text-4xl font-black text-white leading-tight font-sans tracking-tight">
             أتقن أهم <span className="text-yellow-200 underline decoration-yellow-300/60 decoration-wavy">5000 جملة إنجليزية</span> بأسلوب تفاعلي ذكي!
           </h2>
