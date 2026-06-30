@@ -947,6 +947,282 @@ const EXTRA_SENTENCES: Sentence[] = [
     pronunciation: "أندر نو سيركامستانسز شود يو شير يور بيرسونال باسوورد.",
     explanation: "صيغة إنكار وانعكاس نحوي متقدمة جداً للتأكيد الصارم والتحذير المطلق.",
     level: "Advanced"
+  },
+  // Starter (A1) - Batch 2
+  {
+    id: 'ef_st6',
+    english: "What is your email address?",
+    arabic: "ما هو عنوان بريدك الإلكتروني؟",
+    category: "social",
+    pronunciation: "وات إز يور إيميل أدريس؟",
+    explanation: "سؤال أساسي لتبادل معلومات الاتصال والبريد الإلكتروني في مستوى التعارف المبتدئ.",
+    level: "Starter"
+  },
+  {
+    id: 'ef_st7',
+    english: "Nice to meet you.",
+    arabic: "سعدت بلقائك.",
+    category: "social",
+    pronunciation: "نايس تو ميت يو.",
+    explanation: "عبارة ترحيبية أساسية وشائعة تُقال عند التعرف على شخص جديد لأول مرة.",
+    level: "Starter"
+  },
+  {
+    id: 'ef_st8',
+    english: "Can you help me, please?",
+    arabic: "هل يمكنك مساعدتي من فضلك؟",
+    category: "daily",
+    pronunciation: "كان يو هيلب مي، بليز؟",
+    explanation: "طريقة مهذبة وبسيطة للغاية لطلب المساعدة تناسب المتعلمين الجدد.",
+    level: "Starter"
+  },
+  {
+    id: 'ef_st9',
+    english: "How much is this?",
+    arabic: "كم سعر هذا؟",
+    category: "shopping",
+    pronunciation: "هاو ماتش إز ذيس؟",
+    explanation: "السؤال الكلاسيكي والأكثر استخداماً للسؤال عن أسعار السلع أثناء التسوق والطلب.",
+    level: "Starter"
+  },
+  {
+    id: 'ef_st10',
+    english: "See you tomorrow.",
+    arabic: "أراك غداً.",
+    category: "social",
+    pronunciation: "سي يو تومورو.",
+    explanation: "عبارة وداع ودية وشائعة تُستخدم بكثرة بين الأصدقاء والزملاء.",
+    level: "Starter"
+  },
+  // Elementary (A2) - Batch 2
+  {
+    id: 'ef_el6',
+    english: "I usually go to work by bus.",
+    arabic: "أذهب إلى العمل بالحافلة عادةً.",
+    category: "daily",
+    pronunciation: "آي يوجوالي جو تو ويرك باي باس.",
+    explanation: "وصف وسائل النقل المستخدمة والروتين اليومي باستخدام ظروف التكرار والمضارع البسيط.",
+    level: "Elementary"
+  },
+  {
+    id: 'ef_el7',
+    english: "Where can I buy a ticket?",
+    arabic: "أين يمكنني شراء تذكرة؟",
+    category: "travel",
+    pronunciation: "وير كان آي باي أ تيكت؟",
+    explanation: "سؤال حيوي للمسافرين عند الرغبة في استخدام المواصلات العامة أو حجز الرحلات.",
+    level: "Elementary"
+  },
+  {
+    id: 'ef_el8',
+    english: "He has a lot of hobbies.",
+    arabic: "لديه الكثير من الهوايات.",
+    category: "social",
+    pronunciation: "هي هاز أ لوت أوف هوبيز.",
+    explanation: "الحديث عن الاهتمامات والهوايات الشخصية باستخدام فعل الملكية المناسب للمفرد (has).",
+    level: "Elementary"
+  },
+  {
+    id: 'ef_el9',
+    english: "It was very cold yesterday.",
+    arabic: "كان الجو بارداً جداً أمس.",
+    category: "daily",
+    pronunciation: "إت واز فيري كولد يستردي.",
+    explanation: "وصف حالة الطقس والتحدث عن أحداث وتجارب سابقة في الماضي البسيط.",
+    level: "Elementary"
+  },
+  {
+    id: 'ef_el10',
+    english: "Would you like some tea?",
+    arabic: "هل ترغب في بعض الشاي؟",
+    category: "social",
+    pronunciation: "وود يو لايك سام تي؟",
+    explanation: "الصيغة الأكثر تهذيباً لتقديم الضيافة والعروض للأصدقاء والزوار.",
+    level: "Elementary"
+  },
+  // Pre-Intermediate (B1.1) - Batch 2
+  {
+    id: 'ef_pi6',
+    english: "I have been studying English for two years.",
+    arabic: "أنا أدرس اللغة الإنجليزية منذ سنتين.",
+    category: "daily",
+    pronunciation: "آي هاف بين ستادينج إنجلش فور تو ييرز.",
+    explanation: "استخدام زمن المضارع التام المستمر للتعبير عن حدث بدأ في الماضي وما زال مستمراً حتى الآن.",
+    level: "Pre-Intermediate"
+  },
+  {
+    id: 'ef_pi7',
+    english: "What would you do if you lost your passport?",
+    arabic: "ماذا ستفعل لو فقدت جواز سفرك؟",
+    category: "travel",
+    pronunciation: "وات وود يو دو إف يو لوست يور باسبورت؟",
+    explanation: "صيغة السؤال التخيلي في الحالة الشرطية الثانية للتعبير عن سيناريوهات غير محتملة في الحاضر.",
+    level: "Pre-Intermediate"
+  },
+  {
+    id: 'ef_pi8',
+    english: "The movie was so boring that we left early.",
+    arabic: "الفيلم كان مملاً جداً لدرجة أننا غادرنا باكراً.",
+    category: "social",
+    pronunciation: "ذي موفي واز سو بورينج ذات وي لفت إيرلي.",
+    explanation: "توظيف الأسلوب النحوي so + adjective + that للتعبير عن شدة النتيجة المترتبة على السبب.",
+    level: "Pre-Intermediate"
+  },
+  {
+    id: 'ef_pi9',
+    english: "You don't need to pay for the water; it is free.",
+    arabic: "لا تحتاج لدفع ثمن الماء، فهو مجاني.",
+    category: "shopping",
+    pronunciation: "يو دونت نيد تو باي فور ذي ووتر، إت إز فري.",
+    explanation: "التعبير عن عدم وجود ضرورة أو التزام باستخدام الصيغة اللغوية don't need to.",
+    level: "Pre-Intermediate"
+  },
+  {
+    id: 'ef_pi10',
+    english: "Could you tell me how to get to the station?",
+    arabic: "هل يمكنك إخباري كيف أصل إلى المحطة؟",
+    category: "travel",
+    pronunciation: "كود يو تيل مي هاو تو غيت تو ذي ستيشن؟",
+    explanation: "طريقة مهذبة لطلب الاتجاهات باستخدام السؤال غير المباشر بأسلوب رصين ومناسب.",
+    level: "Pre-Intermediate"
+  },
+  // Intermediate (B1.2) - Batch 2
+  {
+    id: 'ef_int6',
+    english: "I'm not sure if I can make it to the party.",
+    arabic: "لست متأكداً إن كنت سأتمكن من القدوم إلى الحفلة.",
+    category: "social",
+    pronunciation: "آيم نوت شور إف آي كان ميك إت تو ذي بارتي.",
+    explanation: "التعبير عن الشك والاعتذار بطريقة ودية باستخدام التعبير الاصطلاحي make it.",
+    level: "Intermediate"
+  },
+  {
+    id: 'ef_int7',
+    english: "She suggested going to the Italian restaurant.",
+    arabic: "اقترحت الذهاب إلى المطعم الإيطالي.",
+    category: "social",
+    pronunciation: "شي سوجيستد جوينج تو ذي إيتاليان ريستورانت.",
+    explanation: "صيغة اقتراح متقدمة باستخدام الفعل suggest متبوعاً بصيغة المصدر verb+ing مباشرة.",
+    level: "Intermediate"
+  },
+  {
+    id: 'ef_int8',
+    english: "The project must be completed by Friday.",
+    arabic: "يجب إكمال المشروع بحلول يوم الجمعة.",
+    category: "business",
+    pronunciation: "ذي بروجكت ماست بي كومبليتد باي فرايداي.",
+    explanation: "استخدام صيغة المبني للمجهول مع أفعال الإلزام والضرورة (must be + past participle).",
+    level: "Intermediate"
+  },
+  {
+    id: 'ef_int9',
+    english: "I look forward to meeting you in person.",
+    arabic: "أتطلع بشوق للقائك شخصياً.",
+    category: "business",
+    pronunciation: "آي لوك فوروارد تو ميتينج يو إن بيرسون.",
+    explanation: "صيغة مهنية رائعة للتعبير عن الاهتمام والحماس للاجتماع بزميل عمل أو عميل وجهاً لوجه.",
+    level: "Intermediate"
+  },
+  {
+    id: 'ef_int10',
+    english: "He succeeded in passing the interview despite the stress.",
+    arabic: "نجح في اجتياز المقابلة رغم التوتر.",
+    category: "business",
+    pronunciation: "هي سكسيدد إن باسينج ذي إنترفيو ديسبايت ذي ستريس.",
+    explanation: "استخدام حرف الجر in مع الفعل succeed متبوعاً بصيغة gerund للحديث عن الإنجازات الصعبة.",
+    level: "Intermediate"
+  },
+  // Upper-Intermediate (B2) - Batch 2
+  {
+    id: 'ef_ui6',
+    english: "I would rather stay home than go out tonight.",
+    arabic: "أفضل البقاء في المنزل على الخروج الليلة.",
+    category: "social",
+    pronunciation: "آي وود راذر ستاي هوم ذان جو آوت تونايت.",
+    explanation: "التعبير عن التفضيل الشخصي المباشر بين خيارين باستخدام الصيغة would rather + infinitive + than.",
+    level: "Upper-Intermediate"
+  },
+  {
+    id: 'ef_ui7',
+    english: "He denied having stolen the money.",
+    arabic: "أنكر قيامه بسرقة المال.",
+    category: "social",
+    pronunciation: "هي دينايد هافينج ستولن ذي ماني.",
+    explanation: "استخدام الفعل deny متبوعاً بصيغة التام المستمر (having + p.p.) للإشارة إلى حدث ماضٍ منفي.",
+    level: "Upper-Intermediate"
+  },
+  {
+    id: 'ef_ui8',
+    english: "I am not used to waking up so early.",
+    arabic: "لست معتاداً على الاستيقاظ مبكراً جداً.",
+    category: "daily",
+    pronunciation: "آي آم نوت يوزد تو ويكينج أب سو إيرلي.",
+    explanation: "الصيغة be used to + gerund تعني عدم التعود والانسجام مع حالة حالية صعبة.",
+    level: "Upper-Intermediate"
+  },
+  {
+    id: 'ef_ui9',
+    english: "The meeting has been called off due to bad weather.",
+    arabic: "تم إلغاء الاجتماع بسبب سوء الأحوال الجوية.",
+    category: "business",
+    pronunciation: "ذي ميتينج هاز بين كولد أوف ديو تو باد ويذر.",
+    explanation: "توظيف الفعل المركب call off بمعنى 'إلغاء' في زمن المضارع التام للمبني للمجهول.",
+    level: "Upper-Intermediate"
+  },
+  {
+    id: 'ef_ui10',
+    english: "You should have told me about the delay beforehand.",
+    arabic: "كان ينبغي عليك إخباري بالتأخير مسبقاً.",
+    category: "social",
+    pronunciation: "يو شود هاف تولد مي أباوت ذي ديلاي بيفورهاند.",
+    explanation: "استخدام should have + p.p. للتعبير عن النقد واللوم أو الندم على تصرف فائت في الماضي.",
+    level: "Upper-Intermediate"
+  },
+  // Advanced (C1) - Batch 2
+  {
+    id: 'ef_ad6',
+    english: "Seldom do we witness such a magnificent performance.",
+    arabic: "نادراً ما نشهد مثل هذا الأداء الرائع.",
+    category: "social",
+    pronunciation: "سيلدوم دو وي ويتنس ساتش أ ماغنيفيسنت بيرفورمانس.",
+    explanation: "الانعكاس النحوي (Inversion) باستخدام الظرف السلبي seldom لإعطاء نبرة أدبية بليغة وقوية.",
+    level: "Advanced"
+  },
+  {
+    id: 'ef_ad7',
+    english: "It was of paramount importance that we act swiftly.",
+    arabic: "كان من الأهمية بمكان أن نتصرف بسرعة.",
+    category: "business",
+    pronunciation: "إت واز أوف باراماونت إمبورتنس ذات وي أكت سويفتلي.",
+    explanation: "استخدام الصفة المتقدمة of paramount importance مع تركيبة Subjunctive للتأكيد البالغ.",
+    level: "Advanced"
+  },
+  {
+    id: 'ef_ad8',
+    english: "The company went bankrupt, thereby leaving many jobless.",
+    arabic: "أفلست الشركة، وبذلك تركت الكثيرين بلا عمل.",
+    category: "business",
+    pronunciation: "ذي كومباني وينت بانكرابت، ذيرباي ليفينج ميني جوبلس.",
+    explanation: "استخدام الرابط المتقدم thereby متبوعاً بـ gerund لربط النتيجة المترتبة مباشرة وبشكل رسمي.",
+    level: "Advanced"
+  },
+  {
+    id: 'ef_ad9',
+    english: "Under no circumstances are you to leave the gate unlocked.",
+    arabic: "تحت أي ظرف من الظروف لا يجب عليك ترك الباب غير مقفل.",
+    category: "daily",
+    pronunciation: "أندر نو سيركامستانسز آر يو تو ليف ذي غيت أنلوكت.",
+    explanation: "صيغة انعكاس نحوي صارمة (Under no circumstances + verb + subject) للتحذيرات الحاسمة.",
+    level: "Advanced"
+  },
+  {
+    id: 'ef_ad10',
+    english: "He is a hard worker, albeit a bit slow sometimes.",
+    arabic: "إنه عامل مجد، وإن كان بطيئاً بعض الشيء في بعض الأحيان.",
+    category: "business",
+    pronunciation: "هي إز أ هارد ويركر، أولبيت أ بت سلو سامتايمز.",
+    explanation: "استخدام الرابط المتقدم albeit (بمعنى 'وإن كان' أو 'رغم أن') للاستدراك الدقيق ذي الطابع البليغ.",
+    level: "Advanced"
   }
 ];
 
