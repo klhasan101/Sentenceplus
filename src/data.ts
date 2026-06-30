@@ -1499,6 +1499,282 @@ const EXTRA_SENTENCES: Sentence[] = [
     pronunciation: "أندر نو سيركامستانسز شود يو تاتش ذي إلكتريك وايرز.",
     explanation: "صيغة انعكاس صارمة ومتقدمة جداً للتحذير ومنع المخاطر التام.",
     level: "Advanced"
+  },
+  // Starter (A1) - Batch 4
+  {
+    id: 'ef_st16',
+    english: "Excuse me, what time is it?",
+    arabic: "معذرة، كم الساعة؟",
+    category: "daily",
+    pronunciation: "إكسكيوز مي، وات تايم إز إت؟",
+    explanation: "طريقة مهذبة وبسيطة للغاية للسؤال عن الوقت للمبتدئين.",
+    level: "Starter"
+  },
+  {
+    id: 'ef_st17',
+    english: "Have a nice day!",
+    arabic: "أتمنى لك يوماً سعيداً!",
+    category: "social",
+    pronunciation: "هاف أ نايس داي!",
+    explanation: "عبارة توديع لطيفة وإيجابية تُقال بكثرة عند الوداع.",
+    level: "Starter"
+  },
+  {
+    id: 'ef_st18',
+    english: "I am sorry, I am late.",
+    arabic: "أنا آسف، لقد تأخرت.",
+    category: "social",
+    pronunciation: "آي آم سوري، آي آم ليت.",
+    explanation: "عبارة اعتذار أساسية ومفيدة جداً للاستخدام عند التأخر.",
+    level: "Starter"
+  },
+  {
+    id: 'ef_st19',
+    english: "Where do you live?",
+    arabic: "أين تعيش؟",
+    category: "social",
+    pronunciation: "وير دو يو ليف؟",
+    explanation: "سؤال أساسي في المحادثات للتعرف على مكان إقامة الآخرين.",
+    level: "Starter"
+  },
+  {
+    id: 'ef_st20',
+    english: "Open your books, please.",
+    arabic: "افتحوا كتبكم من فضلكم.",
+    category: "daily",
+    pronunciation: "أوبن يور بوكس، بليز.",
+    explanation: "تعليمات صفية كلاسيكية ومهمة في المستوى التمهيدي الأول.",
+    level: "Starter"
+  },
+  // Elementary (A2) - Batch 4
+  {
+    id: 'ef_el16',
+    english: "I went shopping with my mother.",
+    arabic: "ذهبت للتسوق مع والدتي.",
+    category: "shopping",
+    pronunciation: "آي وينت شوبينج وِذ ماي ماذر.",
+    explanation: "التحدث عن الأنشطة الماضية والعائلة باستخدام الماضي البسيط للفعل go (went).",
+    level: "Elementary"
+  },
+  {
+    id: 'ef_el17',
+    english: "What is your favorite sport?",
+    arabic: "ما هي رياضتك المفضلة؟",
+    category: "social",
+    pronunciation: "وات إز يور فيفوريت سبورت؟",
+    explanation: "السؤال عن الهوايات والتفضيلات الشخصية للمستويات المبتدئة.",
+    level: "Elementary"
+  },
+  {
+    id: 'ef_el18',
+    english: "He doesn't have any money left.",
+    arabic: "لم يتبقَ لديه أي نقود.",
+    category: "shopping",
+    pronunciation: "هي دزنت هاف إني ماني لفت.",
+    explanation: "استخدام any في الجمل المنفية مع الأسماء غير المعدودة (money).",
+    level: "Elementary"
+  },
+  {
+    id: 'ef_el19',
+    english: "We are studying English right now.",
+    arabic: "نحن ندرس اللغة الإنجليزية الآن.",
+    category: "daily",
+    pronunciation: "وي آر ستادينج إنجلش رايت ناو.",
+    explanation: "استخدام زمن المضارع المستمر للتعبير عن حدث يقع في لحظة التحدث.",
+    level: "Elementary"
+  },
+  {
+    id: 'ef_el20',
+    english: "The library is next to the bank.",
+    arabic: "المكتبة بجوار البنك.",
+    category: "travel",
+    pronunciation: "ذي لايبراري إز نيكست تو ذي بانك.",
+    explanation: "وصف الأماكن واستخدام حروف الجر الخاصة بالمكان مثل next to.",
+    level: "Elementary"
+  },
+  // Pre-Intermediate (B1.1) - Batch 4
+  {
+    id: 'ef_pi16',
+    english: "He has already made a reservation.",
+    arabic: "لقد قام بالحجز بالفعل.",
+    category: "travel",
+    pronunciation: "هي هاز أولريدي ميد أ ريزرفيشن.",
+    explanation: "استخدام المضارع التام للتعبير عن حدث تم مؤخراً قبل موعده باستخدام already.",
+    level: "Pre-Intermediate"
+  },
+  {
+    id: 'ef_pi17',
+    english: "You should drink more water every day.",
+    arabic: "يجب أن تشرب المزيد من الماء كل يوم.",
+    category: "daily",
+    pronunciation: "يو شود درينك مور ووتر إيفري داي.",
+    explanation: "إسداء النصائح المفيدة للصحة الشخصية باستخدام فعل النصيحة should.",
+    level: "Pre-Intermediate"
+  },
+  {
+    id: 'ef_pi18',
+    english: "What will you do if the flight is canceled?",
+    arabic: "ماذا ستفعل لو تم إلغاء الرحلة؟",
+    category: "travel",
+    pronunciation: "وات ويل يو دو إف ذي فلايت إز كانسلد؟",
+    explanation: "سؤال باستخدام الحالة الشرطية الأولى للحديث عن مواقف مستقبلية متوقعة.",
+    level: "Pre-Intermediate"
+  },
+  {
+    id: 'ef_pi19',
+    english: "I am looking forward to the summer holiday.",
+    arabic: "أتطلع بشوق لعطلة الصيف.",
+    category: "travel",
+    pronunciation: "آي آم لوكينج فوروارد تو ذي سامر هوليداي.",
+    explanation: "استخدام التعبير look forward to للتعبير عن الحماس والانتظار السعيد لحدث مستقبل.",
+    level: "Pre-Intermediate"
+  },
+  {
+    id: 'ef_pi20',
+    english: "The building was designed by a young architect.",
+    arabic: "تم تصميم المبنى بواسطة مهندس معماري شاب.",
+    category: "daily",
+    pronunciation: "ذي بيلدنج واز ديزايند باي أ يونج آركيتكت.",
+    explanation: "استخدام صيغة المبني للمجهول في الماضي البسيط للتركيز على المصمم والعمل الفني.",
+    level: "Pre-Intermediate"
+  },
+  // Intermediate (B1.2) - Batch 4
+  {
+    id: 'ef_int16',
+    english: "I'm going to take a rain check on that.",
+    arabic: "سأؤجل قبول هذا العرض لوقت آخر.",
+    category: "social",
+    pronunciation: "آيم جوينج تو تيك أ رين تشيك أون ذات.",
+    explanation: "تعبير اصطلاحي مهذب وممتاز لتأجيل دعوة أو عرض لوقت لاحق مناسب.",
+    level: "Intermediate"
+  },
+  {
+    id: 'ef_int17',
+    english: "They managed to reach the summit before dark.",
+    arabic: "تمكنوا من الوصول إلى القمة قبل حلول الظلام.",
+    category: "travel",
+    pronunciation: "ذي مانجد تو ريتش ذي ساميت بيفور دارك.",
+    explanation: "استخدام الصيغة manage to متبوعة بالمصدر للتعبير عن النجاح في تخطي صعوبة معينة.",
+    level: "Intermediate"
+  },
+  {
+    id: 'ef_int18',
+    english: "Please let me know if you require any assistance.",
+    arabic: "يرجى إعلامي إذا كنت بحاجة إلى أي مساعدة.",
+    category: "business",
+    pronunciation: "بليز ليت مي نو إف يو ريكواير إني أسيستانس.",
+    explanation: "صيغة بريد إلكتروني رسمية ومؤدبة للغاية في التعاملات المهنية والمكتبية.",
+    level: "Intermediate"
+  },
+  {
+    id: 'ef_int19',
+    english: "The company decided to launch a new product.",
+    arabic: "قررت الشركة إطلاق منتج جديد.",
+    category: "business",
+    pronunciation: "ذي كومباني ديسايدد تو لونش أ نيو برودكت.",
+    explanation: "التعبير عن القرارات التنفيذية في بيئة الأعمال باستخدام الفعل launch.",
+    level: "Intermediate"
+  },
+  {
+    id: 'ef_int20',
+    english: "I used to ride my bike to school every day.",
+    arabic: "اعتدت أن أركب دراجتي إلى المدرسة كل يوم.",
+    category: "daily",
+    pronunciation: "آي يوزد تو رايد ماي بايك تو سكول إيفري داي.",
+    explanation: "التعبير عن العادات والممارسات المتكررة القديمة في الماضي باستخدام used to.",
+    level: "Intermediate"
+  },
+  // Upper-Intermediate (B2) - Batch 4
+  {
+    id: 'ef_ui16',
+    english: "I would appreciate it if you could reply by Friday.",
+    arabic: "سأكون ممتناً لو تمكنت من الرد بحلول يوم الجمعة.",
+    category: "business",
+    pronunciation: "آي وود أبريشييت إت إف يو كود ريبلاي باي فرايداي.",
+    explanation: "طريقة رسمية ومهذبة جداً لوضع موعد نهائي للرد على المراسلات الإلكترونية.",
+    level: "Upper-Intermediate"
+  },
+  {
+    id: 'ef_ui17',
+    english: "She is said to have won the championship twice.",
+    arabic: "يُقال إنها فازت بالبطولة مرتين.",
+    category: "social",
+    pronunciation: "شي إز سيد تو هاف وان ذي تشامبيونشيب توايس.",
+    explanation: "صيغة المبني للمجهول غير الشخصي في التقرير عن أحداث ماضية (is said to have + p.p.).",
+    level: "Upper-Intermediate"
+  },
+  {
+    id: 'ef_ui18',
+    english: "Despite the traffic, we arrived on time.",
+    arabic: "رغم حركة المرور، وصلنا في الوقت المحدد.",
+    category: "travel",
+    pronunciation: "ديسبايت ذي ترافيك، وي آرايفد أون تايم.",
+    explanation: "استخدام رابط التناقض despite متبوعاً بالاسم لإبراز تخطي الصعوبات.",
+    level: "Upper-Intermediate"
+  },
+  {
+    id: 'ef_ui19',
+    english: "You must have mistaken me for someone else.",
+    arabic: "لا بد أنك خلطت بيني وبين شخص آخر.",
+    category: "social",
+    pronunciation: "يو ماست هاف ميستيكن مي فور ساموان إلس.",
+    explanation: "أفعال الاستنتاج والافتراض في الماضي (must have + p.p.) للتعبير عن يقين بوقوع خطأ.",
+    level: "Upper-Intermediate"
+  },
+  {
+    id: 'ef_ui20',
+    english: "I wish I hadn't eaten so much cake.",
+    arabic: "أتمنى لو لم آكل هذا القدر الكبير من الكعكة.",
+    category: "emotions",
+    pronunciation: "آي ويش آي هادنت إيتن سو ماتش كيك.",
+    explanation: "التعبير عن الندم على فعل حدث في الماضي باستخدام wish متبوعة بالماضي التام المنفي.",
+    level: "Upper-Intermediate"
+  },
+  // Advanced (C1) - Batch 4
+  {
+    id: 'ef_ad16',
+    english: "On no account should you disclose this information.",
+    arabic: "لا يجب عليك بأي حال من الأحوال الكشف عن هذه المعلومات.",
+    category: "business",
+    pronunciation: "أون نو أكاونت شود يو ديسكلوز ذيس إنفورميشن.",
+    explanation: "صيغة تحذير وانعكاس نحوي صارمة جداً ومتقدمة للحفاظ على سرية المعلومات.",
+    level: "Advanced"
+  },
+  {
+    id: 'ef_ad17',
+    english: "Had I known the truth, I wouldn't have agreed.",
+    arabic: "لو كنت عرفت الحقيقة، لما كنت وافقت.",
+    category: "social",
+    pronunciation: "هاد آي نون ذي تروث، آي وودنت هاف أغريد.",
+    explanation: "الصيغة الشرطية الثالثة المتقدمة بحذف if واستخدام الانعكاس النحوي للندم أو الافتراض.",
+    level: "Advanced"
+  },
+  {
+    id: 'ef_ad18',
+    english: "It is of vital importance that she attend the briefing.",
+    arabic: "من الأهمية البالغة أن تحضر هي الاجتماع التوجيهي.",
+    category: "business",
+    pronunciation: "إت إز أوف فايتل إمبورتنس ذات شي أتيند ذي بريفينج.",
+    explanation: "صيغة Subjunctive باستخدام مصدر الفعل (attend) مع الصفات الدالة على الضرورة القصوى.",
+    level: "Advanced"
+  },
+  {
+    id: 'ef_ad19',
+    english: "He decided to resign, thereby causing a crisis in the firm.",
+    arabic: "قرر الاستقالة، وبذلك تسبب في أزمة في الشركة.",
+    category: "business",
+    pronunciation: "هي ديسايدد تو ريزاين، ذيرباي كوزينج أ كرايسس إن ذي فيرم.",
+    explanation: "استخدام thereby مع صيغة gerund للتعبير عن التسبب المباشر في نتيجة تالية بأسلوب متطور.",
+    level: "Advanced"
+  },
+  {
+    id: 'ef_ad20',
+    english: "Seldom do we come across such a brilliant idea.",
+    arabic: "نادراً ما نصادف مثل هذه الفكرة الرائعة.",
+    category: "daily",
+    pronunciation: "سيلدوم دو وي كام أكراس ساتش أ بريليانت آيديا.",
+    explanation: "الانعكاس النحوي بتقديم الظرف السلبي seldom والفعل المساعد للتعبير عن الندرة الشديدة بأسلوب بليغ.",
+    level: "Advanced"
   }
 ];
 
