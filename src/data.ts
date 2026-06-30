@@ -1223,6 +1223,282 @@ const EXTRA_SENTENCES: Sentence[] = [
     pronunciation: "هي إز أ هارد ويركر، أولبيت أ بت سلو سامتايمز.",
     explanation: "استخدام الرابط المتقدم albeit (بمعنى 'وإن كان' أو 'رغم أن') للاستدراك الدقيق ذي الطابع البليغ.",
     level: "Advanced"
+  },
+  // Starter (A1) - Batch 3
+  {
+    id: 'ef_st11',
+    english: "Where is the bathroom?",
+    arabic: "أين الحمام؟",
+    category: "daily",
+    pronunciation: "وير إز ذي باثروم؟",
+    explanation: "السؤال الأكثر حيوية وأهمية عند التواجد في مكان عام أو زيارة الآخرين.",
+    level: "Starter"
+  },
+  {
+    id: 'ef_st12',
+    english: "How are you today?",
+    arabic: "كيف حالك اليوم؟",
+    category: "social",
+    pronunciation: "هاو آر يو توداي؟",
+    explanation: "عبارة تعارف وسؤال عن الحال ودية للغاية وتستخدم يومياً.",
+    level: "Starter"
+  },
+  {
+    id: 'ef_st13',
+    english: "My name is John.",
+    arabic: "اسمي جون.",
+    category: "social",
+    pronunciation: "ماي نيم إز جون.",
+    explanation: "الصيغة الأساسية والأسهل للتعريف بالاسم الشخصي للمبتدئين.",
+    level: "Starter"
+  },
+  {
+    id: 'ef_st14',
+    english: "What is this?",
+    arabic: "ما هذا؟",
+    category: "daily",
+    pronunciation: "وات إز ذيس؟",
+    explanation: "سؤال أساسي للإشارة والاستفسار عن الأشياء المحيطة بنا.",
+    level: "Starter"
+  },
+  {
+    id: 'ef_st15',
+    english: "I don't understand.",
+    arabic: "أنا لا أفهم.",
+    category: "daily",
+    pronunciation: "آي دونت أندرستاند.",
+    explanation: "عبارة هامة جداً للتعبير عن عدم الاستيعاب وطلب المساعدة أو التوضيح.",
+    level: "Starter"
+  },
+  // Elementary (A2) - Batch 3
+  {
+    id: 'ef_el11',
+    english: "I have a sister and two brothers.",
+    arabic: "لدي أخت وأخوان.",
+    category: "social",
+    pronunciation: "آي هاف أ سيستر آند تو براذرز.",
+    explanation: "استخدام فعل الملكية have للحديث عن أفراد العائلة والأقارب.",
+    level: "Elementary"
+  },
+  {
+    id: 'ef_el12',
+    english: "We watched a great movie last night.",
+    arabic: "شاهدنا فيلماً رائعاً الليلة الماضية.",
+    category: "social",
+    pronunciation: "وي واتشت أ غريت موفي لاست نايت.",
+    explanation: "التعبير عن الأنشطة الترفيهية في الماضي باستخدام الفعل المنتظم watched.",
+    level: "Elementary"
+  },
+  {
+    id: 'ef_el13',
+    english: "Is there a supermarket near here?",
+    arabic: "هل يوجد سوبرماركت قريب من هنا؟",
+    category: "shopping",
+    pronunciation: "إز ذير أ سوبرماركت نير هير؟",
+    explanation: "السؤال عن وجود الخدمات القريبة باستخدام الصيغة الاستفهامية is there.",
+    level: "Elementary"
+  },
+  {
+    id: 'ef_el14',
+    english: "I need to buy some new shoes.",
+    arabic: "أحتاج إلى شراء بعض الأحذية الجديدة.",
+    category: "shopping",
+    pronunciation: "آي نيد تو باي سام نيو شوز.",
+    explanation: "التعبير عن الحاجة والرغبة في التسوق باستخدام need to متبوعاً بالمصدر.",
+    level: "Elementary"
+  },
+  {
+    id: 'ef_el15',
+    english: "She can speak English very well.",
+    arabic: "يمكنها التحدث باللغة الإنجليزية بشكل جيد جداً.",
+    category: "social",
+    pronunciation: "شي كان سبيك إنجلش فيري ويل.",
+    explanation: "التعبير عن القدرة والمهارة الشخصية باستخدام الفعل المساعد can.",
+    level: "Elementary"
+  },
+  // Pre-Intermediate (B1.1) - Batch 3
+  {
+    id: 'ef_pi11',
+    english: "He has already visited London twice.",
+    arabic: "لقد زار لندن مرتين بالفعل.",
+    category: "travel",
+    pronunciation: "هي هاز أولريدي فيزتد لندن توايس.",
+    explanation: "استخدام المضارع التام للتعبير عن الخبرات والتكرار مع الظرف already.",
+    level: "Pre-Intermediate"
+  },
+  {
+    id: 'ef_pi12',
+    english: "You must not take photos in the museum.",
+    arabic: "يجب ألا تلتقط صوراً في المتحف.",
+    category: "travel",
+    pronunciation: "يو ماست نوت تيك فوتوز إن ذي ميوزيوم.",
+    explanation: "التعبير عن المنع والتحريم الصارم باستخدام must not.",
+    level: "Pre-Intermediate"
+  },
+  {
+    id: 'ef_pi13',
+    english: "What are you doing this weekend?",
+    arabic: "ماذا ستفعل في عطلة نهاية هذا الأسبوع؟",
+    category: "social",
+    pronunciation: "وات آر يو دوينج ذيس ويك إند؟",
+    explanation: "السؤال عن الخطط المستقبلية القريبة باستخدام صيغة المضارع المستمر.",
+    level: "Pre-Intermediate"
+  },
+  {
+    id: 'ef_pi14',
+    english: "The school is located in the city center.",
+    arabic: "تقع المدرسة في وسط المدينة.",
+    category: "daily",
+    pronunciation: "ذي سكول إز لوكيتد إن ذي سيتي سنتر.",
+    explanation: "تحديد الموقع الجغرافي للمباني باستخدام صيغة المبني للمجهول البسيطة.",
+    level: "Pre-Intermediate"
+  },
+  {
+    id: 'ef_pi15',
+    english: "While I was cooking, the power went out.",
+    arabic: "بينما كنت أطبخ، انقطعت الكهرباء.",
+    category: "daily",
+    pronunciation: "وايل آي واز كوكينغ، ذي باور وينت آوت.",
+    explanation: "ربط حدثين في الماضي؛ أحدهما مستمر (الماضي المستمر) والآخر قاطعه (الماضي البسيط).",
+    level: "Pre-Intermediate"
+  },
+  // Intermediate (B1.2) - Batch 3
+  {
+    id: 'ef_int11',
+    english: "The match was called off because of the heavy rain.",
+    arabic: "تم إلغاء المباراة بسبب المطر الغزير.",
+    category: "social",
+    pronunciation: "ذي ماتش واز كولد أوف بيكوز أوف ذي هيفي رين.",
+    explanation: "استخدام الفعل المركب call off (يلغي) في زمن الماضي البسيط للمبني للمجهول.",
+    level: "Intermediate"
+  },
+  {
+    id: 'ef_int12',
+    english: "I don't mind waiting for a few minutes.",
+    arabic: "لا أمانع في الانتظار لبضع دقائق.",
+    category: "social",
+    pronunciation: "آي دونت مايند ويتينج فور أ فيو مينتس.",
+    explanation: "استخدام الفعل mind متبوعاً بصيغة gerund للتعبير عن القبول والرحابة.",
+    level: "Intermediate"
+  },
+  {
+    id: 'ef_int13',
+    english: "She is looking for a new job in marketing.",
+    arabic: "إنها تبحث عن وظيفة جديدة في مجال التسويق.",
+    category: "business",
+    pronunciation: "شي إز لوكينج فور أ نيو جوب إن ماركتينج.",
+    explanation: "استخدام الفعل المركب look for (يبحث عن) للتعبير عن النشاط الحالي.",
+    level: "Intermediate"
+  },
+  {
+    id: 'ef_int14',
+    english: "If you practice every day, you will improve quickly.",
+    arabic: "إذا تدربت كل يوم، فستتحسن بسرعة.",
+    category: "daily",
+    pronunciation: "إف يو براكتس إيفري داي، يو ويل إمبروف كويكلي.",
+    explanation: "الحالة الشرطية الأولى للحديث عن نصيحة ونتيجة محتملة الحدوث في المستقبل.",
+    level: "Intermediate"
+  },
+  {
+    id: 'ef_int15',
+    english: "We need to discuss the details of the contract.",
+    arabic: "نحن بحاجة إلى مناقشة تفاصيل العقد.",
+    category: "business",
+    pronunciation: "وي نيد تو ديسكاس ذي ديتيلز أوف ذي كونتراكت.",
+    explanation: "صيغة عمل مهنية ومباشرة للحديث عن متطلبات المهام باستخدام discuss.",
+    level: "Intermediate"
+  },
+  // Upper-Intermediate (B2) - Batch 3
+  {
+    id: 'ef_ui11',
+    english: "He is said to be the richest man in the town.",
+    arabic: "يُقال إنه أغنى رجل في البلدة.",
+    category: "social",
+    pronunciation: "هي إز سيد تو بي ذي ريتشست مان إن ذي تاون.",
+    explanation: "التقرير النحوي غير الشخصي (Impersonal Passive) لنقل الشائعات أو الأقوال العامة.",
+    level: "Upper-Intermediate"
+  },
+  {
+    id: 'ef_ui12',
+    english: "No matter what happens, I will always support you.",
+    arabic: "مهما حدث، سأدعمك دائماً.",
+    category: "emotions",
+    pronunciation: "نو ماتر وات هابنز، آي ويل أولويز سبورت يو.",
+    explanation: "استخدام أسلوب التوكيد no matter what للتعبير عن الدعم واللتزام المطلق.",
+    level: "Upper-Intermediate"
+  },
+  {
+    id: 'ef_ui13',
+    english: "The manager suggested that we postpone the meeting.",
+    arabic: "اقترح المدير أن نؤجل الاجتماع.",
+    category: "business",
+    pronunciation: "ذي مانجر سوجيستد ذات وي بوستبون ذي ميتينج.",
+    explanation: "استخدام صيغة Subjunctive مع الفعل suggest للتعبير عن القرارات الرسمية.",
+    level: "Upper-Intermediate"
+  },
+  {
+    id: 'ef_ui14',
+    english: "I'd rather you didn't smoke in the house.",
+    arabic: "أفضل ألا تدخن في المنزل.",
+    category: "daily",
+    pronunciation: "آيد راذر يو ديدنت سموك إن ذي هاوس.",
+    explanation: "استخدام would rather متبوعة بضمير فاعل وفعل ماضي للتعبير عن تفضيل مهذب لعدم فعل شيء.",
+    level: "Upper-Intermediate"
+  },
+  {
+    id: 'ef_ui15',
+    english: "She succeeded in completing the race despite the injury.",
+    arabic: "نجحت في إكمال السباق رغم الإصابة.",
+    category: "social",
+    pronunciation: "شي سكسيدد إن كومبليتينج ذي ريس ديسبايت ذي إنجري.",
+    explanation: "استخدام succeed in + gerund للتأكيد على تخطي الصعاب والنجاح.",
+    level: "Upper-Intermediate"
+  },
+  // Advanced (C1) - Batch 3
+  {
+    id: 'ef_ad11',
+    english: "Had it not been for your advice, I would have failed.",
+    arabic: "لولا نصيحتك، لكنت قد فشلت.",
+    category: "social",
+    pronunciation: "هاد إت نوت بين فور يور أدفايس، آي وود هاف فيلد.",
+    explanation: "الصيغة الشرطية الثالثة المتقدمة جداً باستخدام الانعكاس للتعبير عن الامتنان والشرط الفائت.",
+    level: "Advanced"
+  },
+  {
+    id: 'ef_ad12',
+    english: "Little did she know that the news would change her life.",
+    arabic: "لم تكن تعلم إلا القليل أن الأخبار ستغير حياتها.",
+    category: "emotions",
+    pronunciation: "لتل ديد شي نو ذات ذي نيوِز وود تشينج هير لايف.",
+    explanation: "استخدام الانعكاس النحوي مع الظرف السلبي little للتشويق وسرد الأحداث.",
+    level: "Advanced"
+  },
+  {
+    id: 'ef_ad13',
+    english: "It is essential that everyone be present at the briefing.",
+    arabic: "من الضروري أن يكون الجميع حاضرين في الإيجاز.",
+    category: "business",
+    pronunciation: "إت إز إسينشل ذات إيفريوان بي بريزنت أت ذي بريفينج.",
+    explanation: "استخدام Subjunctive (be) مع الصفات المعبرة عن الضرورة والوجوب (essential).",
+    level: "Advanced"
+  },
+  {
+    id: 'ef_ad14',
+    english: "The policy was implemented, albeit with some minor adjustments.",
+    arabic: "تم تنفيذ السياسة، وإن كان ذلك مع بعض التعديلات الطفيفة.",
+    category: "business",
+    pronunciation: "ذي بوليسي واز إمبليمنتد، أولبيت وِذ سام ماينر أدجستمنتس.",
+    explanation: "استخدام albeit (وإن كان) لربط الاستدراك والتحفظات بشكل موجز وأنيق في التقارير.",
+    level: "Advanced"
+  },
+  {
+    id: 'ef_ad15',
+    english: "On no account should you touch the electric wires.",
+    arabic: "لا يجب عليك بأي حال من الأحوال لمس الأسلاك الكهربائية.",
+    category: "daily",
+    pronunciation: "أندر نو سيركامستانسز شود يو تاتش ذي إلكتريك وايرز.",
+    explanation: "صيغة انعكاس صارمة ومتقدمة جداً للتحذير ومنع المخاطر التام.",
+    level: "Advanced"
   }
 ];
 
